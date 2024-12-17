@@ -1,4 +1,4 @@
-<a href="https://githubsfdeploy.herokuapp.com?owner=FinDockLabs&repo=FinDock-Health-Check-Dashboards-NPSP&ref=Main">
+<a href="https://githubsfdeploy.herokuapp.com?owner=FinDockLabs&repo=findock-healthcheck&ref=main">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
