@@ -3,12 +3,13 @@
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
 
-# FinDock Health Check Dashboards
+# FinDock Health Check Dashboards for NPSP
 
 A quick description of what this repo contains:
 - Reports and a Dashboard to help monitor failed or Pending FinDock Processes that include Payment Schedules, Inbound Reports, Messages, Logs, Installments, Transaction Sets and Transactions
 - A Report folder where all these Reports are placed
 - A Dashboard Folder where the Dashboard is placed
+- These reports and dashboards are built to work with FinDock with the Non Profit Success Pack (NPSP) source
 
 # Configuration
 - This project creates 8 Reports and 1 Dashboard 
