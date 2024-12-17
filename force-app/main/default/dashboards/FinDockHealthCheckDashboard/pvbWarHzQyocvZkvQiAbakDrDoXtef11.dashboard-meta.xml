@@ -8,6 +8,10 @@
     <dashboardChartTheme>dark</dashboardChartTheme>
     <dashboardColorPalette>unity</dashboardColorPalette>
     <dashboardFilters>
+         <dashboardFilterOptions>
+            <operator>equals</operator>
+            <values>TODAY</values>
+        </dashboardFilterOptions>
         <dashboardFilterOptions>
             <operator>equals</operator>
             <values>LAST_WEEK</values>
