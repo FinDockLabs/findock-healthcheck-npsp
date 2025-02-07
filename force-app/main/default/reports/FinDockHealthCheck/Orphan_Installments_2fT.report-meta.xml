@@ -42,7 +42,6 @@
             <operator>equals</operator>
             <value>cpm__Installment__c.cpm__Receivable</value>
         </criteriaItems>
-        <language>en_US</language>
     </filter>
     <format>Tabular</format>
     <name>Orphan Installments</name>

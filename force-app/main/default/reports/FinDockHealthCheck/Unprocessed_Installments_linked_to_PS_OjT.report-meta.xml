@@ -39,7 +39,6 @@
             <operator>notEqual</operator>
             <value>Generated</value>
         </criteriaItems>
-        <language>en_US</language>
     </filter>
     <format>Tabular</format>
     <name>Unprocessed Installments linked to PS</name>

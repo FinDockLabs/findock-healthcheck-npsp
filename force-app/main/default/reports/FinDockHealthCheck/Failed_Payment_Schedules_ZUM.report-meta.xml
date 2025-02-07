@@ -39,7 +39,6 @@
             <operator>notEqual</operator>
             <value>Scheduled,Done</value>
         </criteriaItems>
-        <language>en_US</language>
     </filter>
     <format>Tabular</format>
     <name>Failed Payment Schedules</name>
