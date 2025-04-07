@@ -420,8 +420,6 @@
     <dashboardType>LoggedInUser</dashboardType>
     <description>Reports for troubleshooting the failed FinDock processes on the Org</description>
     <isGridLayout>true</isGridLayout>
-    <owner>bhuvana.lakshminarayana@findock.comdev</owner>
-    <runningUser>bhuvana.lakshminarayana@findock.comdev</runningUser>
     <textColor>#000000</textColor>
     <title>FinDock Health Check</title>
     <titleColor>#000000</titleColor>
