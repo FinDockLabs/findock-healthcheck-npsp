@@ -52,7 +52,7 @@
     <showGrandTotal>true</showGrandTotal>
     <showSubTotals>true</showSubTotals>
     <timeFrameFilter>
-        <dateColumn>cpm__Payment_Schedule__c.paybacs__BACS_Processing_Date__c</dateColumn>
+        <dateColumn>cpm__Payment_Schedule__c.cpm__Run_Date__c</dateColumn>
         <interval>INTERVAL_CUSTOM</interval>
     </timeFrameFilter>
 </Report>
